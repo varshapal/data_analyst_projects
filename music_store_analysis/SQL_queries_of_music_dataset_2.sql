@@ -45,15 +45,7 @@ ORDER BY milliseconds DESC;
 
 
 
-------ADVANCE LEVEL QUESTION------------
 
-/* Find how much amount spend by each customer on artists? Write a query to return 
-customer name, artist name nd total spent. */
-
-SELECT customer.first_name, customer.last_name, invoice.total
-FROM customer
-JOIN invoice ON customer.customer_id = invoice.customer_id
-WHERE 
 
 
 	
