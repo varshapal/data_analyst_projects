@@ -4,3 +4,4 @@
 - Excel Project
 - SQL Projects
 - Python Projects
+- Power BI Project
